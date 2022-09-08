@@ -79,13 +79,9 @@ p {
     color: white;
 }
 
-.item-container li:active {
+.item-container li.active {
     background-color: hsl(217, 12%, 63%);
     color: white;
-}
-
-.btn-container {
-
 }
 
 .btn-container button {
